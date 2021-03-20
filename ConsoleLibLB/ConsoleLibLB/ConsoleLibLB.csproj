@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LibrF">
+      <HintPath>..\..\LibrF\LibrF\bin\Debug\netcoreapp3.1\LibrF.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
